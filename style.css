@@ -1,9 +1,14 @@
 body {
-  background-image :url(http://images.123hdwallpapers.com/20150423/grey-linux-wallpaper-1920x1200.jpg);
-  color: lightgrey;}
+  background-image :url(http://img12.deviantart.net/420f/i/2011/167/1/d/arch_linux_wallpaper_by_mokkujin-d3j1se0.png);
+  color: lightgrey;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
 
 h1 {
   text-align: center;
+  font-family: 'lobster';
 }
 
 
@@ -11,29 +16,20 @@ div {
   text-align: center;
 background-color: rgba(0, 0, 0, 0.5);
 color: white;
+width: 50%;
+height: 50%;
+margin-left: 25%;
+margin-right: 25%;
+
 }
 
-
-
-* {
-  box-sizing: border-box;
+p {
+line-height: 3;
+font-family: purisa ;
 }
 
-@media screen and (max-widht:900px){
-  body {
-    background-image :url(http://images.123hdwallpapers.com/20150423/grey-linux-wallpaper-1920x1200.jpg);
-    color: lightgrey;}
-
-  h1 {
-    text-align: center;
-    font-size: 2em;
-  }
-
-
-  div {
-    text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
-  font-size: 2em;
-  }
+p b {
+font-family: 'Anton';
+background-color: black;
+border-radius: 5px ;
 }

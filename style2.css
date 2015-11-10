@@ -1,0 +1,23 @@
+@media screen and (max-width: 800px) {
+  body {
+    background-image: url(http://img12.deviantart.net/420f/i/2011/167/1/d/arch_linux_wallpaper_by_mokkujin-d3j1se0.png);
+    color: lightgrey;
+background-attachment: fixed; }
+  h1 {
+    font-size: 3em;
+    text-align: center;
+  }
+  div {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+  p{
+    font-size: 2em;
+  }
+}
